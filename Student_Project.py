@@ -1,6 +1,5 @@
-n1 = int(input("Enter number 1: "))
-n2 = int(input("Enter number 2: "))
-
+n1 = #Take the user input for the first number and while taking user input print the statement ("Enter the first number")
+n2 = #Take the user input for the second number and while taking user input print the statement ("Enter the second number")
 
 def addition(n1,n2):
     print(n1+n2)
